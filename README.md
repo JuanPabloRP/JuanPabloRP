@@ -6,11 +6,29 @@ Software Web Developer
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jprp147) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-rold%C3%A1n-pati%C3%B1o/)
+[![portfolio](https://img.shields.io/badge/Portfolio-darkgreen)](https://jprp-portfolio.vercel.app/)
 
-<!--
+
+
+
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
--->
+![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5)
+![NODE JS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)
+![TAILWIND CSS](https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwindcss)
+![Maria DB](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mariadb)
+![Mongo DB](https://img.shields.io/badge/NoSQL-black?style=for-the-badge&logo=mongodb)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java)
+![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring)
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp)
+![python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure-devops)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens)
+
+
 
 # 📊 GitHub Stats:
 [![Juan Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanPabloRP)](https://github.com/JuanPabloRP/github-readme-stats)
