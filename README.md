@@ -38,11 +38,6 @@ Software Web Developer
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuanPabloRP&theme=flat&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
